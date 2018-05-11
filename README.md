@@ -1,1 +1,1 @@
-# omdb
+This is an app that consume an API from OMDB it is a RESTful web service to obtain movie information.
