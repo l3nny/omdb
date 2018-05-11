@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">omdb</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_show_result">ShowResult</string>
+
+    <string-array name="Plop">
+        <item>Short</item>
+        <item>Full</item>
+    </string-array>
+
+
+</resources>
